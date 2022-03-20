@@ -1,0 +1,69 @@
+# Seung
+outbig/
+#data/
+MNIST_data/
+temp/
+out*/
+model/
+__not/
+__pycache__
+*.pickle
+./runs
+events*
+
+#tensorflow
+*.index
+*.meta
+*.data
+*.data*
+*.ckpt.*
+
+# pycharm
+.idea/
+.ipynb_checkpoints
+.idea/*
+
+# OS-dependent
+Thumbs.db
+.DS_Store
+._.DS_Store
+._*
+__MACOSX
+
+# Codeblocks
+*.depend
+*.layout
+
+
+build/
+Build/
+bin/
+obj/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# MFC-related
+*.sdf
+*.ncb
+ipch/
+Debug/
+Release/
+
+# Python-related
+*.pyc
