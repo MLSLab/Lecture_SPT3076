@@ -10,6 +10,7 @@ __pycache__
 *.pickle
 ./runs
 events*
+__*
 
 #tensorflow
 *.index
